@@ -1,0 +1,15 @@
+0001, VC1, AF, Winston Lian, 0165828418, winston10@gmail.com, 101024149223, 12, M, Chinese
+0002, VC2, EC, Sushila Chandran, 0121901327, sushiii@outlook.com, 850905016172, 37, F, Indian
+0003, VC1, DM, Reza Ali, 0117749397, rezaali@gmail.com, 961027140747, 26, M, Malay
+0004, VC1, CZ, Durrani Mazlan, 0176340873, du1114@gmail.com, 061114078346, 16, F, Malay
+0005, VC2, CZ, Adir Singh, 0114731653, adirsingh@yahoo.com, 770628149305, 45, M, Indian
+0006, VC1, BV, Ada Lee Jia Hui, 0134945876, adaleejh@gmail.com, 040322042924, 18, F, Chinese
+0007, VC2, DM, Omar Puteri, 0113628440, , 621110140918, 60, F, Malay
+0008, VC1, AF, Jason Wee, 0103075731, wee_jasonn@gmail.com, 010502052959, 21, M, Chinese
+0009, VC2, EC, Jennifer Tan, 0128509436, jenn16@icloud.com, 030616148060, 19, F, Chinese
+0010, VC1, CZ, Suresh, 0131904156, 78suresh@gmail.com, 780310148941, 44, M, Indian
+0011, VC2, AF, Sulaiman Ismail, 0111864886, sulaiman_mail@gmail.com, 830224108681, 39, M, Malay
+0012, VC2, DM, Vaishnavi Gurmeet, 0110532764, vaish2005@gmail.com, 051107145378, 17, F, Indian
+0013, VC2, DM, Nabilah Reza, 0163783348, nabilah_lah@gmail.com, 890729100492, 33, F, Malay
+0014, VC1, BV, Ho Min Yi, 0127892031, my08ho@yahoo.com, 710508147244, 51, F, Malay
+0015, VC1, BV, Edward Jelani, 0124741084, edward0314@gmail.com, 810314146325, 41, M, Iban
